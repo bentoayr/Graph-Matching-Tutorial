@@ -1,6 +1,6 @@
 # Graph Matching Tutorial
 
-This repository contains the code for the tutorial presented at the 2019, Open Data Science Conference (ODSC) in Boston.
+This repository contains some of code associated with the tutorial presented at the 2019, Open Data Science Conference (ODSC) in Boston.
 
 The slides can be found at http://www.jbento.info/slides/GM_Tutorial_ODSC_2019.pdf
 
